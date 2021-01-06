@@ -1,0 +1,10 @@
+E:\Çalışmalar\A_MY\OOP\Ahmet hoca oop\IEnumerator_9\IEnumerator_9\bin\Debug\IEnumerator_9.exe.config
+E:\Çalışmalar\A_MY\OOP\Ahmet hoca oop\IEnumerator_9\IEnumerator_9\bin\Debug\IEnumerator_9.exe
+E:\Çalışmalar\A_MY\OOP\Ahmet hoca oop\IEnumerator_9\IEnumerator_9\bin\Debug\IEnumerator_9.pdb
+E:\Çalışmalar\A_MY\OOP\Ahmet hoca oop\IEnumerator_9\IEnumerator_9\obj\Debug\IEnumerator_9.csprojAssemblyReference.cache
+E:\Çalışmalar\A_MY\OOP\Ahmet hoca oop\IEnumerator_9\IEnumerator_9\obj\Debug\IEnumerator_9.Form1.resources
+E:\Çalışmalar\A_MY\OOP\Ahmet hoca oop\IEnumerator_9\IEnumerator_9\obj\Debug\IEnumerator_9.Properties.Resources.resources
+E:\Çalışmalar\A_MY\OOP\Ahmet hoca oop\IEnumerator_9\IEnumerator_9\obj\Debug\IEnumerator_9.csproj.GenerateResource.cache
+E:\Çalışmalar\A_MY\OOP\Ahmet hoca oop\IEnumerator_9\IEnumerator_9\obj\Debug\IEnumerator_9.csproj.CoreCompileInputs.cache
+E:\Çalışmalar\A_MY\OOP\Ahmet hoca oop\IEnumerator_9\IEnumerator_9\obj\Debug\IEnumerator_9.exe
+E:\Çalışmalar\A_MY\OOP\Ahmet hoca oop\IEnumerator_9\IEnumerator_9\obj\Debug\IEnumerator_9.pdb
